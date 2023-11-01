@@ -10,8 +10,8 @@ export const THEME_COLOR_SCHEME: ThemingProps['colorScheme'] = 'gray'
 export const THEME_CONFIG = { initialColorMode: THEME_INITIAL_COLOR }
 
 export const SOCIAL_MEDIUM = '@JalelTounsi'
-export const SOCIAL_TWITTER = '__Jalel'
-export const SOCIAL_GITHUB = 'JalelTounsi'
+export const SOCIAL_TWITTER = 'BilginKocak'
+export const SOCIAL_GITHUB = 'bilgin-kocak'
 export const SOCIAL_LINKEDIN = 'JalelTounsi'
 export const SOCIAL_DISCORD = '123456789123456789'
 
